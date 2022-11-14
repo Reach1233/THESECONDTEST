@@ -1,0 +1,102 @@
+	/*Pop Up Side Menu*/
+	.sidenav {
+	height: 100%;
+	width: 0;
+	position: fixed;
+	z-index: 1;
+	top: 0;
+	left: 0;
+	background-color: #111;
+	overflow-x: hidden;
+	transition: 0.6s;
+	padding-top: 60px;
+	white-space:no-wrap;
+	}
+
+	.sidenav a {
+	padding: 8px 8px 8px 32px;
+	text-decoration: none;
+	font-size: 25px;
+	color: #818181;
+	display: block;
+	transition: 0.3s;
+	}
+
+	.sidenav a:hover {
+	color: #f1f1f1;
+	}
+
+	.sidenav .closebtn {
+	position: absolute;
+	top: 0;
+	right: 25px;
+	font-size: 36px;
+	margin-left: 50px;
+	}
+
+	#main {
+	transition: margin-left .5s;
+	padding: 16px;
+	position: sticky;
+	top:20px;
+	}
+
+	@media screen and (max-height: 450px) {
+	.sidenav {padding-top: 15px;}
+	.sidenav a {font-size: 18px;}
+	}
+	/*Background Image*/
+	html{
+	background-image:url("S.gif");
+	background-color:#cccccc;
+	background-repeat: no-repeat;
+	background-size:cover;
+	font-family: "Lato", sans-serif;
+
+	}
+	/*Body Styling*/
+	#WE {
+	color:rgb(255,255,255);
+	text-align:center;
+	margin:auto;
+	padding-left:10px;
+	padding-right:10px;
+	width:70%;
+	background-color:rgba(100,100,100,0.5);
+	border-radius:25px;
+	margin-top:20px;
+	margin-bottom:20px;
+	}
+	#menu{
+	position:absolute;
+	top:20px;
+	left:10px;
+	width:35px;
+	length:20px;
+	cursor:context-menu;
+	}
+	/*Custom Scrollbar*/
+	/* width */
+	::-webkit-scrollbar {
+	width: 20px;
+	}
+
+	/* Track */
+	::-webkit-scrollbar-track {
+	box-shadow: inset 0 0 5px grey; 
+	border-radius: 10px;
+	}
+
+	/* Handle */
+	::-webkit-scrollbar-thumb {
+	background: rgb(66, 158, 157); 
+	border-radius: 10px;
+	}
+
+	/* Handle on hover */
+	::-webkit-scrollbar-thumb:hover {
+	background:#FFFDD0; 
+	}
+	#board2{
+		margin: auto;
+	}
