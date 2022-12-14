@@ -59,8 +59,8 @@
 	color:rgb(255,255,255);
 	text-align:center;
 	margin:auto;
-	padding-left:10px;
-	padding-right:10px;
+	padding-left:100%;
+	padding-right:100%;
 	width:70%;
 	background-color:rgba(100,100,100,0.5);
 	border-radius:25px;
