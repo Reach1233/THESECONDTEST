@@ -1,0 +1,158 @@
+<!DOCTYPE html>
+<html>
+	<head>
+	<title>GameClub.com</title>
+	<link rel="icon" type="image/gif" href="Black Eagle (40 × 40 px).gif">
+	<link rel="stylesheet" type="text/css" href="style.css">
+	
+	</head>
+		<body>
+		<div id="main">
+  <span style="font-size:30px;cursor:pointer" onclick="toggleNav()">&#9776;</span>
+</div>
+	 <div id="WE">
+	 <h1>Welcome to The Game Club</h1>
+	 <p id="uall"># Super Smash Brothers Ultimate Quiz
+
+## Question 1  JUMP
+Which move does not reset after getting hit in the air?
+ <input type="radio" id="html" name="fav_language" value="HTML">
+  <label for="html">Air Dodge</label><br>
+  <input type="radio" id="css" name="fav_language" value="CSS">
+  <label for="css">Up B (recovery)</label><br>
+  <input type="radio" id="javascript" name="fav_language" value="JavaScript">
+  <label for="javascript">Side B (special)</label>
+
+- A) Air dodge
+- B) Up B (recovery)
+- C) Side B (special)
+- D) Jump 
+
+## Question 2 A BUTTON
+When grabbing someone, pummeling is done by tapping:
+- A) The control stick
+- B) ZR
+- C) A
+- D) B
+
+## Question 3 RAPIDLY MOVING THE STICKS
+When grabbed, what action causes you to be released sooner than you normally would?
+- A) Waiting for the grab animation to end naturally
+- B) Button mashing
+- C) Holding the control stick in one direction
+- D) Rapidly moving the control stick in circles
+
+## Question 4 FALSE 
+True or False: All pummels work the same way (same speed, damage, etc.).
+- A) True
+- B) False
+
+## Question 5 TRUE
+True or False: When holding onto ledge, your ledge invincibility time limit never runs out quicker.
+- A) True
+- B) False
+
+## Question 6 TILT
+This type of move is meant to be quick, safe to space, kills at very late percents, or used as a "get off me" tool in neutral.
+- A) Smash attack
+- B) Tilt
+- C) Special move
+- D) Aerial
+
+## Question 7 SMALL CIRCLES
+When a character uses a jump, this cue can be consistently spotted to show that they have jumped.
+- A) A blue line appears
+- B) The character blinks briefly
+- C) Small circles appear
+- D) A character-specific sound effect
+
+## Question 8 2 FRAME
+When grabbing ledge, characters have a _____ frame window to be hit out of the ledge grab.
+- A) 5 frames
+- B) 10 frames
+- C) 2 frames
+- D) 0 frames (they're completely invincible)
+
+## Question 9 AWAY FROM THE WALL
+Not the entire cast can jump off walls, but for those who can, jumping off a wall is done by being off stage, putting yourself against a wall, and tapping:
+- A) The jump button
+- B) Away from the wall
+- C) Toward the wall
+- D) Up and away from the wall
+
+## Question 10 FALSE
+True or False: The amount of lag between your first roll/spot dodge/air dodge and your fourth roll/spot dodge/air dodge is the same.
+- A) True
+- B) False
+
+## Question 11 COUNTER ATTACK
+When a character keeps landing on top of you with aerials (like Roy, Captain Falcon, or Cloud), the best way to prevent them from doing this is to:
+- A) Shield whenever they approach from above
+- B) Roll away repeatedly
+- C) Pick a stage with a platform to hide under
+- D) Counter-attack with your own aerial
+
+## Question 12 DIRECTIONAL INPUT
+DI stands for:
+- A) Defense Interaction
+- B) Directional Input
+- C) Damage Intensity
+- D) Drift Indicator
+
+## Question 13 THE ANSWER IS C
+DI is:
+- A) A technique to escape grabs faster
+- B) A way to increase your attack power
+- C) Holding a direction on your controller to make your character drift when getting hit
+- D) The ability to cancel moves mid-animation
+
+## Question 14 TRUE
+True or False: When being comboed, your DI effectiveness depends on what weight class your character is.
+- A) True
+- B) False
+
+## Question 15 PLATFORM IN MID
+When playing against a zoner who likes to use projectiles, where is the best place on stage to position yourself?
+- A) At the edge of the stage
+- B) Directly in front of your opponent
+- C) On a platform close to the middle of the stage
+- D) Running back and forth on the ground
+
+## Question 16 THE ANSWER IS C
+When an opponent is hit off stage at a low percent, what's the best way to figure out their off-stage recovery habit?
+- A) Always going deep for an edge guard
+- B) Staying on stage and waiting
+- C) Running off stage, jumping back (faking an edge guard), and watching their reaction
+- D) Immediately rushing to ledge
+
+## Question 17 TRUE
+True or False: Super Smash Brothers does not have true combos like other fighting games (meaning combos more than 2 hits that are guaranteed to hit with the same exact input every time).
+- A) True
+- B) False
+
+## Question 18 USING THEIR JUMP
+When wanting to be aggressive with your combos, what is the one thing you should look for that allows you to be aggressive?
+- A) Your opponent's percentage reaching 100%
+- B) Your opponent using their jump
+- C) Your opponent using their air dodge
+- D) Your opponent falling below the stage 
+</p>
+		<img id="gameClub" src="game Club.gif" alt="beta logo">
+			</div>
+
+<div id="mySidenav" class="sidenav tooltip" >
+  <!--<a href="javascript:void(0)" class="closebtn" onclick="closeNav()">&times;</a>-->
+  <a href="#">About us</a>
+  <a href="#">Game<br>Club<br>Schedule</a>
+  <a href="F.html">E-Sports<br>Schedule</a>
+  <a href="#">Members</a>
+  <a href="#">Contacts</a>
+  <a href="chess.html">Chess</a>
+  <a href="testoftest.html">Project Coder</a>
+  <a href="https://deterioratingsanity.github.io/homepage">Project<br>Co-Coder</a>
+</div>
+
+<script src="mommymilkers.js"></script>
+		</body>
+	
+</html>
